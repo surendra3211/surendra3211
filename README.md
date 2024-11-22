@@ -15,7 +15,7 @@ Pandas Spotify Data Analysis: Python-based analysis of Spotify track data using 
 
 Let’s connect and explore how data can drive smarter decisions!
 
-🔗[LinkedIn](https://www.linkedin.com/in/surendra-meena-928b03204) | 📧 [surendrameena3252@gmail.com](surendrameena3252@gmail.com)   | 
+🔗[LinkedIn](https://www.linkedin.com/in/surendra-meena-928b03204) | 📧 [surendrameena3252@gmail.com]()   | 
 <!---
 surendra3211/surendra3211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
