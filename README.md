@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @surendra
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data analytics tools like Excel, Tableau, Pandas, Numpy and SQL
-
-Hi, I’m Surendra Meena 👋!
+# Hi, I’m Surendra Meena 👋!
 I specialize in data analytics, data management, and visualization. With hands-on experience in SQL, MySQL, Power BI, and Advanced Excel, I help businesses uncover actionable insights that drive growth 📈.
 
 Key Skills & Expertise:
