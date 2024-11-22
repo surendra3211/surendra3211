@@ -9,6 +9,7 @@ Key Skills & Expertise:
 Data Analysis & Visualization: Power BI, DAX, SQL, MySQL Data Management: Cleaning, validation, anomaly detection Business Reporting: Dashboards, trend analysis, KPI reporting Programming: SQL for data manipulation .
 
 Recent Projects:
+
 Power BI Sales Analysis Dashboard: Visual analysis of US sales trends using Power BI, employing data cleaning and visualizations like pie charts, line charts, donuts, maps, and tiles.
 
 Numpy Productivity Analysis: Python-based analysis of company productivity data using Numpy, identifying top and bottom performers, and calculating mean productivity levels.
