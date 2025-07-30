@@ -43,7 +43,7 @@ Deployed with a Flask web app and interactive HTML form for real-time prediction
 
 📈 Best Model R² Score Achieved: ~0.88
 
-###📊 Other Projects
+### 📊 Other Projects
 🔹 Power BI Sales Dashboard
 US Sales insights dashboard using Power BI, with cleaned and visualized trends, KPIs, maps, and donut/pie charts.
 
