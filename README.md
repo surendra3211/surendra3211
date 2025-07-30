@@ -20,15 +20,15 @@ I’m a passionate Data Science and Analytics practitioner with hands-on experie
 ### 🔧 Core Skills & Tools
 Data Science & ML: Scikit-Learn, XGBoost, CatBoost, Hyperparameter Tuning, Model Evaluation (R², MSE), Pipelines
 
-###Deployment & Engineering: Flask, Pickle, Python virtual environments, Git, Conda, VS Code
+### Deployment & Engineering: Flask, Pickle, Python virtual environments, Git, Conda, VS Code
 
-###Analytics & Visualization: Power BI, Advanced Excel, SQL, MySQL
+### Analytics & Visualization: Power BI, Advanced Excel, SQL, MySQL
 
-###Data Handling: Pandas, NumPy, preprocessing, anomaly detection, data wrangling
+### Data Handling: Pandas, NumPy, preprocessing, anomaly detection, data wrangling
 
-###Soft Skills: Research mindset, problem solving, clear documentation
+### Soft Skills: Research mindset, problem solving, clear documentation
 
-###🚀 Highlight Project: Student Exam Score Prediction
+### 🚀 Highlight Project: Student Exam Score Prediction
 An end-to-end Machine Learning project to predict student math scores based on demographics and other academic features.
 
 ### Tech Stack:
