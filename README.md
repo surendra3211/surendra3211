@@ -17,18 +17,18 @@ Let’s connect and explore how data can drive smarter decisions!
 # 👋 Hi, I’m Surendra Meena!
 I’m a passionate Data Science and Analytics practitioner with hands-on experience in Machine Learning, model deployment, and data visualization. I specialize in turning raw data into meaningful insights and scalable solutions using tools like Python, SQL, Power BI, and modern ML frameworks.
 
- 🔧 Core Skills & Tools
+### 🔧 Core Skills & Tools
 Data Science & ML: Scikit-Learn, XGBoost, CatBoost, Hyperparameter Tuning, Model Evaluation (R², MSE), Pipelines
 
- Deployment & Engineering: Flask, Pickle, Python virtual environments, Git, Conda, VS Code
+###Deployment & Engineering: Flask, Pickle, Python virtual environments, Git, Conda, VS Code
 
-Analytics & Visualization: Power BI, Advanced Excel, SQL, MySQL
+###Analytics & Visualization: Power BI, Advanced Excel, SQL, MySQL
 
-Data Handling: Pandas, NumPy, preprocessing, anomaly detection, data wrangling
+###Data Handling: Pandas, NumPy, preprocessing, anomaly detection, data wrangling
 
-Soft Skills: Research mindset, problem solving, clear documentation
+###Soft Skills: Research mindset, problem solving, clear documentation
 
-🚀 Highlight Project: Student Exam Score Prediction
+###🚀 Highlight Project: Student Exam Score Prediction
 An end-to-end Machine Learning project to predict student math scores based on demographics and other academic features.
 
 ### Tech Stack:
@@ -43,7 +43,7 @@ Deployed with a Flask web app and interactive HTML form for real-time prediction
 
 📈 Best Model R² Score Achieved: ~0.88
 
-📊 Other Projects
+###📊 Other Projects
 🔹 Power BI Sales Dashboard
 US Sales insights dashboard using Power BI, with cleaned and visualized trends, KPIs, maps, and donut/pie charts.
 
