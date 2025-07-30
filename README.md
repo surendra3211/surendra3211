@@ -1,19 +1,3 @@
-# Hi, I’m Surendra Meena 👋!
-I specialize in data analytics, data management, and visualization. With hands-on experience in SQL, MySQL, Power BI, and Advanced Excel, I help businesses uncover actionable insights that drive growth 📈.
-
-### Key Skills & Expertise:
-Data Analysis & Visualization: Power BI, DAX, SQL, MySQL Data Management: Cleaning, validation, anomaly detection Business Reporting: Dashboards, trend analysis, KPI reporting Programming: SQL for data manipulation .
-
-### Recent Projects:
-
-Power BI Sales Analysis Dashboard: Visual analysis of US sales trends using Power BI, employing data cleaning and visualizations like pie charts, line charts, donuts, maps, and tiles.
-
-Numpy Productivity Analysis: Python-based analysis of company productivity data using Numpy, identifying top and bottom performers, and calculating mean productivity levels.
-
-Pandas Spotify Data Analysis: Python-based analysis of Spotify track data using Pandas, exploring attributes like duration, popularity, and acoustic features, and visualizing genre trends over time.
-
-Let’s connect and explore how data can drive smarter decisions!
-
 # 👋 Hi, I’m Surendra Meena!
 I’m a passionate Data Science and Analytics practitioner with hands-on experience in Machine Learning, model deployment, and data visualization. I specialize in turning raw data into meaningful insights and scalable solutions using tools like Python, SQL, Power BI, and modern ML frameworks.
 
