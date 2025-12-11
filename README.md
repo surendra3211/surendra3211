@@ -42,7 +42,7 @@ Analyzed company productivity metrics using NumPy; evaluated averages and extrem
 Explored Spotify track data using Pandas — duration, acoustic features, genre patterns across years.
 
 📬 Let’s Connect!
-📧 Email: [your-email@example.com]
+📧 Email: [surendrameena3252@gmail.com]
 
 🔗 LinkedIn: linkedin.com/in/yourprofile
 
